@@ -16,7 +16,7 @@ Phone: +8801904654712<br>
 Accounting @ Hussains is made to be a Double Entry Accounting Software written in PHP with the CodeIgniter Framework using MySQL.
 The software is a simple software that is very limited, but used more as a presentation to showcase how simple double entry
 accounting can be implemented. There are various pieces of code that are not industry quality, but this is again used to merely
-showcase certain programming abilities..
+showcase certain programming abilities...
 
 
 ### Release Information
