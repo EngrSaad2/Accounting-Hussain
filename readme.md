@@ -22,7 +22,7 @@ showcase certain programming abilities.
 ### Release Information
 
 
-This repo contains in-development code for future releases..
+This repo contains in-development code for future releases...
 
 
 ### Changelog and New Features
