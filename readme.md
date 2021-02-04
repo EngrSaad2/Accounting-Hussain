@@ -7,7 +7,7 @@ LinkedIn: https://www.linkedin.com/in/raselhasandurjoy<br>
 Facebook: https://www.facebook.com/raselhasandurjoy<br>
 Company WEB: https://triangeltech.com/ <br>
 Personal WEB Portfolio: http://saadportfolio.com <br>
-Phone: +8801904654712<br>...
+Phone: +8801904654712<br>
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=102)](https://github.com/raselhasandurjoy/Accounting-Hussain)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
@@ -34,7 +34,7 @@ You can find a list of all changes for each push in the `Commits <https://github
 ### Server Requirements
 
 
-PHP version 5.6 or newer is recommended...
+PHP version 5.6 or newer is recommended
 MySQL database support.
 
 It should work on 5.3.7 as well, but we strongly advise you NOT to run
