@@ -28,7 +28,7 @@ This repo contains in-development code for future releases...
 ### Changelog and New Features
 
 
-You can find a list of all changes for each push in the `Commits <https://github.com/Polkm7/SoftwareApplicationDomainProject/commits/master>`_.
+You can find a list of all changes for each push in the `Commits <https://github.com/Polkm7/SoftwareApplicationDomainProject/commits/master>`
 
 
 ### Server Requirements
