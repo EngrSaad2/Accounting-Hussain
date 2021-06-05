@@ -35,7 +35,7 @@ You can find a list of all changes for each push in the `Commits <https://github
 
 
 PHP version 5.6 or newer is recommended
-MySQL database support...
+MySQL database support.
 
 It should work on 5.3.7 as well, but we strongly advise you NOT to run
 such old versions of PHP, because of potential security and performance
