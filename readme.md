@@ -3,10 +3,10 @@
 
 Developer: <b>SAAD</b> <br>
 Email: saad@triangeltech.com<br>
+Website: https://engr-saad.com <br>
 LinkedIn: https://www.linkedin.com/in/raselhasandurjoy<br>
 Facebook: https://www.facebook.com/raselhasandurjoy<br>
 Company WEB: https://triangeltech.com/ <br>
-Website: https://engr-saad.com <br>
 Phone: +8801904654712<br>
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=102)](https://github.com/raselhasandurjoy/Accounting-Hussain)
@@ -22,7 +22,7 @@ showcase certain programming abilities
 ### Release Information
 
 
-This repo contains in-development code for future releases.
+This repo contains in-development code for future releases..
 
 
 ### Changelog and New Features
