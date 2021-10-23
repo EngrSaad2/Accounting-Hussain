@@ -23,7 +23,7 @@ accounting can be implemented. There are various pieces of code that are not ind
 showcase certain programming abilities
 
 
-### Release Information
+### Release Information...
 
 
 This repo contains in-development code for future releases.
