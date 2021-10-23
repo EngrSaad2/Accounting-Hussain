@@ -9,7 +9,6 @@ Facebook: https://www.facebook.com/raselhasandurjoy<br>
 Company WEB: https://triangeltech.com/ <br>
 Phone: +8801904654712<br>
 
-...
 
 
 
