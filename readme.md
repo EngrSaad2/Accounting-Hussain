@@ -1,7 +1,7 @@
 
 # Accounting @ Hussains
 
-Developer: <b>Engr SAAD</b> <br>
+Developer: <b>Engr Saad</b> <br>
 Email: saad@triangeltech.com<br>
 Website: https://engr-saad.com <br>
 LinkedIn: https://www.linkedin.com/in/raselhasandurjoy<br>
