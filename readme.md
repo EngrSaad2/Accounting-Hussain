@@ -4,10 +4,10 @@
 Developer: <b>Engr Saad</b> <br>
 Email: saad@triangeltech.com<br>
 Website: https://engr-saad.com <br>
-LinkedIn: https://www.linkedin.com/in/raselhasandurjoy<br>
-Facebook: https://www.facebook.com/raselhasandurjoy<br>
-Company WEB: https://triangeltech.com/ <br>
-Phone: +8801904654712<br>
+LinkedIn: https://www.linkedin.com/in/engr-saad/<br>
+Facebook: https://www.facebook.com/Engr.Saad.2/<br>
+Company WEB: https://triangletech.com.bd/ <br>
+WhatsApp: +8801810536303<br>
 
 
 
