@@ -1,5 +1,5 @@
 
-# Accounting @ Hussai
+# Accounting @ Hussa
 
 <h2 align="center">Send text to my social platform for developing web projects.</h2>
 
